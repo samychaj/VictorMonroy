@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roles", "Roles\Roles.csproj", "{81E6C970-FBA4-48B7-89ED-B90588ADEEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roles.Tests", "Roles.Tests\Roles.Tests.csproj", "{899B1FB3-5163-441B-84BD-2FDD99BB3123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E6C970-FBA4-48B7-89ED-B90588ADEEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E6C970-FBA4-48B7-89ED-B90588ADEEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E6C970-FBA4-48B7-89ED-B90588ADEEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E6C970-FBA4-48B7-89ED-B90588ADEEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899B1FB3-5163-441B-84BD-2FDD99BB3123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899B1FB3-5163-441B-84BD-2FDD99BB3123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899B1FB3-5163-441B-84BD-2FDD99BB3123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899B1FB3-5163-441B-84BD-2FDD99BB3123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

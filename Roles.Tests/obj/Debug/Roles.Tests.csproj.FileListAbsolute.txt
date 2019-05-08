@@ -1,0 +1,2 @@
+/Users/arturoantonio/Projects/Prueba/Roles.Tests/obj/Debug/Roles.Tests.csprojAssemblyReference.cache
+/Users/arturoantonio/Projects/Prueba/Roles.Tests/obj/Debug/Roles.Tests.csproj.CoreCompileInputs.cache
